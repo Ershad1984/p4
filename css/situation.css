@@ -1,0 +1,155 @@
+
+*{
+    margin-top: auto;
+    padding: auto;
+    box-sizing: border-box;
+  
+}
+
+body{
+  background: red;
+}
+.container{
+   text-align: center;
+ background-color: blue;
+ width: 50%;
+ text-align: center;
+ margin: auto;
+ margin-top: 20px;
+
+   
+
+}
+h1{
+    color: rgb(175, 41, 41);
+}
+h1:hover{
+    background-color: rgb(218, 200, 200);
+    color: blueviolet;
+}
+
+.p::placeholder:hover{
+    color: rgb(255, 0, 0);
+}
+::placeholder{
+    background-color: blueviolet;
+    color: white;
+}
+::placeholder:: hover {
+background-color: brown;
+}
+
+body{
+   
+    background-color: rgb(43, 226, 186);
+}
+.forget{
+    
+   text-align: center;
+   background-color: rgb(212, 30, 121);
+   width: 30%;
+   text-align: center;
+   margin: auto;
+   margin-top: 20px;
+}
+
+
+.suc-bg{
+
+    background-color: rgb(189, 34, 55);
+}
+
+
+body{
+    background-color: yellow;
+}
+
+.container-s{
+    text-align: center;
+    background-color: rgb(104, 45, 212);
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+h3{
+    text-align: center;
+ margin-top: 20%;
+ grid-column-end: span;
+ 
+}
+h3:hover{
+    background-color: rgb(206, 193, 193);
+ box-shadow: 2eg;
+ font-size: larger;
+}
+
+
+body{ background-size: auto;
+    background-color: blue;
+
+}
+
+.container-sign{
+    
+    text-align: center;
+    background-color: rgb(20, 212, 52);
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+.login-f{
+    text-align: center;
+    background-color: rgb(75, 31, 179);
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+
+}
+.login-i{
+    text-align: center;
+    background-color: rgb(163, 14, 138);
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    box-sizing: content-box;
+
+}
+
+.login-ii{
+    text-align: center;
+    background-color:yellow;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 30px;
+
+}
+.login-ii::placeholder{
+    text-align: center;
+    background-color:yellow;
+    text-decoration: line-through;
+    color: blueviolet;
+   
+}
+button:hover{
+    background-color: blue;
+   border-bottom-color: brown;
+ outline-style: double;
+ outline-width: 10px;
+}
+
+
+
